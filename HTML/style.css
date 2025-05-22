@@ -1,0 +1,80 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav-item{
+    padding-right: 30px;
+    font-size: medium;
+    text-transform: uppercase;
+}
+
+.nav-link{
+    color: black;
+    font-weight: 600;
+}
+
+.nav-link:hover{
+    color: skyblue;
+}
+
+.AR{
+    height: 40px;
+    width: 80px;
+    outline: 1;
+    box-shadow: grey;
+    background: #6666e4;
+    color: white;
+    border-radius: 80px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.AR:hover{
+    background:#66abe4;
+}
+
+.Heading{
+    font: comic;
+    font-size: 3rem;
+    font-weight: 600;
+    color: midnightblue;
+}
+
+.p-head{
+    font-size: larger;
+    color: grey;
+}
+
+.btn-juego{
+    height: 40px;
+    width: 220px;
+    outline: none;
+    background: #8e8ee5;
+    color: white;
+    border-radius: 80px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.btn-juego:hover{
+    background:#66abe4;
+    font: color black;
+}
+
+.btn-contacto{
+    height: 40px;
+    width: 220px;
+    outline: none;
+    background: #8e8ee5;
+    color: white;
+    border-radius: 80px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.btn-contacto:hover{
+    background:#66abe4;
+    font: color black;
+}
